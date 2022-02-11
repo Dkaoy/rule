@@ -1,0 +1,42 @@
+# NAME: 支付宝
+# HOST-SUFFIX: 13
+# TOTAL: 13
+HOST-SUFFIX,alipay, filter1
+HOST-SUFFIX,alipay-corp.com, filter1
+HOST-SUFFIX,alipay-eco.com, filter1
+HOST-SUFFIX,alipay-inc.com, filter1
+HOST-SUFFIX,alipay.com, filter1
+HOST-SUFFIX,alipay.net, filter1
+HOST-SUFFIX,alipaydev.com, filter1
+HOST-SUFFIX,alipaydns.com, filter1
+HOST-SUFFIX,alipayeshop.com, filter1
+HOST-SUFFIX,alipaylog.com, filter1
+HOST-SUFFIX,alipayobjects.com, filter1
+HOST-SUFFIX,ifaa.org.cn, filter1
+HOST-SUFFIX,sinopayment.com.cn, filter1
+
+
+
+# NAME: QQ
+# HOST-SUFFIX: 7
+# HOST-KEYWORD: 1
+# USER-AGENT: 1
+# TOTAL: 8
+HOST-SUFFIX, gtimg.com, filter1
+HOST-SUFFIX, myqcloud.com, filter1
+HOST-SUFFIX, gdtimg.com, filter1
+HOST-SUFFIX, gtimg.cn, filter1
+HOST-SUFFIX, qpic.cn, filter1
+HOST-SUFFIX, onezapp.com, filter1
+HOST-KEYWORD, tencent, filter1
+HOST-SUFFIX, qq.com, filter1
+USER-AGENT, QQ*, filter1
+
+
+
+# NAME: 微信
+# HOST-SUFFIX: 
+# HOST-KEYWORD: 
+# USER-AGENT: 
+# TOTAL: 
+HOST-KEYWORD, wechat, filter1
