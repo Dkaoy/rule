@@ -21,7 +21,7 @@ HOST-SUFFIX,sinopayment.com.cn, filter1
 # HOST-SUFFIX: 7
 # HOST-KEYWORD: 1
 # USER-AGENT: 1
-# TOTAL: 8
+# TOTAL: 9
 HOST-SUFFIX, gtimg.com, filter1
 HOST-SUFFIX, myqcloud.com, filter1
 HOST-SUFFIX, gdtimg.com, filter1
