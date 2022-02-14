@@ -3,9 +3,10 @@
 # HOST-SUFFIX: 0
 # HOST-KEYWORD: 2
 # USER-AGENT: 0
-# IP-CIDR: 2
+# IP-CIDR: 3
 # TOTAL: 4
 ip-cidr, 182.254.116.116/24, filter_03
+ip-cidr, 182.254.52.18/24, filter_03
 ip-cidr, 121.51.224.100/24, filter_03
 host-keyword, yangshipin, filter_03
 host-keyword, ysp.cctv.cn, filter_03
