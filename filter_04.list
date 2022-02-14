@@ -3,8 +3,11 @@
 # HOST-SUFFIX: 1
 # HOST-KEYWORD: 2
 # USER-AGENT: 3
-# IP-CIDR: 50
-# TOTAL: 56
+# IP-CIDR: 53
+# TOTAL: 59
+ip-cidr, 124.239.163.0/24, filter_04
+ip-cidr, 203.119.144.0/24, filter_04
+ip-cidr, 42.81.213.0/24, filter_04
 ip-cidr, 219.153.35.0/24, filter_04
 ip-cidr, 59.82.9.0/24, filter_04
 ip-cidr, 182.140.130.0/24, filter_04
