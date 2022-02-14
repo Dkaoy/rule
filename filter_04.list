@@ -1,10 +1,11 @@
 # NAME: 淘宝
 # HOST: 0
-# HOST-SUFFIX: 1
+# HOST-SUFFIX: 2
 # HOST-KEYWORD: 2
 # USER-AGENT: 3
 # IP-CIDR: 53
-# TOTAL: 59
+# TOTAL: 60
+host-suffix, token.safebrowsing.apple, filter_04
 ip-cidr, 124.239.163.0/24, filter_04
 ip-cidr, 203.119.144.0/24, filter_04
 ip-cidr, 42.81.213.0/24, filter_04
