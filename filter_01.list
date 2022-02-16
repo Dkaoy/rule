@@ -1,21 +1,3 @@
-# NAME: 支付宝
-# HOST-SUFFIX: 13
-# TOTAL: 13
-HOST-SUFFIX,alipay, filter1
-HOST-SUFFIX,alipay-corp.com, filter1
-HOST-SUFFIX,alipay-eco.com, filter1
-HOST-SUFFIX,alipay-inc.com, filter1
-HOST-SUFFIX,alipay.com, filter1
-HOST-SUFFIX,alipay.net, filter1
-HOST-SUFFIX,alipaydev.com, filter1
-HOST-SUFFIX,alipaydns.com, filter1
-HOST-SUFFIX,alipayeshop.com, filter1
-HOST-SUFFIX,alipaylog.com, filter1
-HOST-SUFFIX,alipayobjects.com, filter1
-HOST-SUFFIX,ifaa.org.cn, filter1
-HOST-SUFFIX,sinopayment.com.cn, filter1
-
-
 
 # NAME: QQ
 # HOST-SUFFIX: 7
