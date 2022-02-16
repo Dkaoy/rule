@@ -43,10 +43,4 @@ HOST-KEYWORD, wechat, filter1
 
 
 
-# NAME: 抖音
-# HOST-SUFFIX: 1
-# HOST-KEYWORD: 1
-# USER-AGENT: 0
-# TOTAL: 2
-HOST-KEYWORD, douyin, filter1
-HOST-SUFFIX, amemv.com, filter1
+
