@@ -21,3 +21,17 @@ host-keyword, ysp.cctv.cn, filter_03
 TOTAL: 2
 HOST-KEYWORD, fenbi, filter_03
 HOST-SUFFIX, fbstatic.cn, filter_03
+
+
+
+#NAME: 酷狗
+#HOST: 1
+#HOST-SUFFIX: 3
+#HOST-KEYWORD: 1
+#USER-AGENT: 0
+TOTAL: 5
+host-suffix, kglink.cn, filter_02
+host-suffix, fanxing.com, filter_02
+host-suffix, kgimg.com, filter_02
+host, oth.eve.mdt.qq.com, filter_02
+host-keyword, kugou, filter_02
