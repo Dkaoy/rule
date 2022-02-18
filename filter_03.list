@@ -35,3 +35,16 @@ host-suffix, fanxing.com, filter_02
 host-suffix, kgimg.com, filter_02
 host, oth.eve.mdt.qq.com, filter_02
 host-keyword, kugou, filter_02
+
+
+
+#NAME: 拼多多
+#HOST: 1
+#HOST-SUFFIX: 3
+#HOST-KEYWORD: 0
+#USER-AGENT: 0
+TOTAL: 4
+host, yangkeduo.com, filter_01
+host-suffix, pddpic.com, filter_01
+host-suffix, pddugc.com, filter_01
+host-suffix, pinduoduo.com, filter_01
