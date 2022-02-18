@@ -1,4 +1,4 @@
 #该分流规则适用于国外分流（逐渐添加）
 host-keyword, google, filter_06
 host-keyword, github, filter_06
-host-suffix, jsdelivr, filter_06
+host-suffix, jsdelivr.net, filter_06
