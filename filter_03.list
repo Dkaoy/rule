@@ -19,5 +19,5 @@ host-keyword, ysp.cctv.cn, filter_03
 #HOST-KEYWORD: 1
 #USER-AGENT: 0
 TOTAL: 2
-HOST-KEYWORD, fenbi, filter_05
-HOST-SUFFIX, fbstatic.cn, filter_05
+HOST-KEYWORD, fenbi, filter_03
+HOST-SUFFIX, fbstatic.cn, filter_03
