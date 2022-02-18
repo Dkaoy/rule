@@ -1,8 +1,61 @@
-#NAME: 粉笔职教
-#HOST: 0
-#HOST-SUFFIX: 1
+#NAME: 抖音系
+#HOST: 1
+#HOST-SUFFIX: 24
 #HOST-KEYWORD: 1
 #USER-AGENT: 0
-TOTAL: 2
-HOST-KEYWORD, fenbi, filter_05
-HOST-SUFFIX, fbstatic.cn, filter_05
+TOTAL: 26
+host-suffix, bdurl.net, filter_03
+host-suffix, zjurl.cn, filter_03
+host-suffix, bytednsdoc.com, filter_03
+host-suffix, bytescm.com, filter_03
+host-suffix, bytetcc.com, filter_03
+host-suffix, byteoversea.com, filter_03
+host-suffix, byteeffecttos.com, filter_03
+host-suffix, ecombdstatic.com, filter_03
+host, athena-api.oceanengine.com, filter_03
+host-suffix, dailygn.com, filter_03
+host-suffix, ixigua.com, filter_03
+host-suffix, bytegecko.com, filter_03
+host-suffix, bytegoofy.com, filter_03
+host-suffix, byteimg.com, filter_03
+host-suffix, byteacctimg.com, filter_03
+host-suffix, hpplay.cn, filter_03
+host-suffix, bytedance.com, filter_03
+host-suffix, snssdk.com, filter_03
+host-suffix, zjcdn.com, filter_03
+host-suffix, pstatp.com, filter_03
+host-suffix, bytegecko.com, filter_03
+host-suffix, awemeughun.com, filter_03
+host-keyword, douyin, filter_03
+host-suffix, bytedance.com, filter_03
+host-suffix, zijieapi.com, filter_03
+host-suffix, amemv.com, filter_03
+
+
+
+#NAME: 快手系
+#HOST: 0
+#HOST-SUFFIX: 13
+#HOST-KEYWORD: 2
+#USER-AGENT: 0
+ip-cidr: 4
+TOTAL: 19
+host-suffix, kskwai.com, filter_03
+host-suffix, etoote.com, filter_03
+host-suffix, kwai.net, filter_03
+ip-cidr, 103.107.219.0/24, filter_03
+ip-cidr, 110.43.206.0/24, filter_03
+ip-cidr, 103.102.200.0/24, filter_03
+host-suffix, kspkg.com, filter_03
+ip-cidr, 119.29.29.0/24, filter_03
+host-keyword, httpdns, filter_03
+host-keyword, kuaishou, filter_03
+host-suffix, kwaishop.com, filter_03
+host-suffix, pool.ntp.org, filter_03
+host-suffix, yximgs.com, filter_03
+host-suffix, kwaicdn.com, filter_03
+host-suffix, kwimgs.com, filter_03
+host-suffix, ksapisrv.com, filter_03
+host-suffix, inkuai.com, filter_03
+host-suffix, ksyun.com, filter_03
+host-suffix, gifshow.com, filter_03
