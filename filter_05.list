@@ -63,3 +63,21 @@ host-suffix, ksapisrv.com, filter_03
 host-suffix, inkuai.com, filter_03
 host-suffix, ksyun.com, filter_03
 host-suffix, gifshow.com, filter_03
+
+
+
+#NAME: 百度系
+#HOST: 0
+#HOST-SUFFIX: 4
+#HOST-KEYWORD: 0
+#USER-AGENT: 4
+ip-cidr: 0
+TOTAL: 8
+host-suffix, bcebos.com, filter_03
+user-agent, *BaiduBoxApp*, filter_03
+host-suffix, bdimg.com, filter_03
+user-agent, *baiduboxapp*, filter_03
+user-agent, *Baidu*, filter_03
+host-suffix, baidu.com, filter_03
+host-suffix, bdstatic.com, filter_03
+user-agent, dumedia*, filter_03
