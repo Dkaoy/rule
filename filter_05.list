@@ -330,10 +330,11 @@ HOST-SUFFIX,zybang.com,Baidu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:28
-# HOST-SUFFIX: 296
+# HOST-SUFFIX: 297
 # USER-AGENT: 5
 # IP-CIDR: 2
-# TOTAL: 303
+# TOTAL: 304
+HOST-SUFFIX,onezapp.com,Tencent
 HOST-SUFFIX,1700.cn,Tencent
 HOST-SUFFIX,17roco.com,Tencent
 HOST-SUFFIX,700chat.com,Tencent
